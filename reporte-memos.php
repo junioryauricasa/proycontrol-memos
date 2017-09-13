@@ -72,7 +72,7 @@ $codigoHTML='
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Reporte Productos</title>
+<title>Reporte Memorandums</title>
 </head>
 <body>
 <div style="text-align:right; font-size:11px">
